@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-`extract_fasta_seq` is a tool to extract specific fasta sequences from a fasta file. By Guanliang MENG, see https://github.com/linzhi2013
+`extract_fasta_seq` is a tool to extract specific fasta sequences from a fasta file. By Guanliang MENG, see https://github.com/linzhi2013/extract_fasta_seq
 
 ## 2 Installation
 
