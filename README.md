@@ -2,6 +2,9 @@
 
 ## 1 Introduction
 
+[![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/extract_fasta_seq/README.html)
+
+
 `extract_fasta_seq` is a tool to extract specific fasta sequences from a fasta file. By Guanliang MENG, see https://github.com/linzhi2013/extract_fasta_seq
 
 ## 2 Installation
