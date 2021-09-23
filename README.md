@@ -55,7 +55,7 @@ Guanliang MENG
 ## 5 Citation
 Currently I have no plan to publish `extract_fasta_seq`.
 
-
+**However, if you use this program in your analysis, or you "steal" the idea/codes of this program into your script, I should be one of the co-authors in your publication!!!**
 
 
 
